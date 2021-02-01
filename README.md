@@ -1,6 +1,7 @@
 # The Shtrahman Lab - Behavior Data Platform
-
 An automated pipeline and interface for data visualization and analysis supporting neuroscience research in [The Shtrahman Lab](https://www.shtrahmanlab.org) at UC San Diego.
+
+[![Build Status](https://travis-ci.com/dev-bhatia/shtrahman_lab_behavior.svg?branch=main)](https://travis-ci.com/dev-bhatia/shtrahman_lab_behavior)
 
 ## System Requirements
 
