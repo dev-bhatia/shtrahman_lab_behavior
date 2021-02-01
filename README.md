@@ -19,10 +19,6 @@ An automated pipeline and interface for data visualization and analysis supporti
 6. This should open a window in the browser at `https://localhost:6000` and you can now start using the program
    > If your browser does not open this window after step 5, open a new tab and navigate to http://localhost:6000. This is the "site" to use the program.
 
-## Previews
-
-Some really cool GIF
-
 ## License
 
 This project is licensed under the MIT License. Please [contact The Shtrahman Lab](https://shtrahmanlab.org/contact/) for any questions.
