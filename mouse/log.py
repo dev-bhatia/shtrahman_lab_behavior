@@ -11,11 +11,11 @@ class Logger:
         Reference: https://stackoverflow.com/a/28330410
 
         USE:
-            Logger.logfile.info("Hello World")
-            Logger.logfile.debug("Hello World")
-            Logger.logfile.warning("Hello World")
-            Logger.logfile.critical("Hello World")
-            Logger.logfile.error("Hello World")
+            Logger.log.info("Hello World")
+            Logger.log.debug("Hello World")
+            Logger.log.warning("Hello World")
+            Logger.log.critical("Hello World")
+            Logger.log.error("Hello World")
 
         :param name: (str) Name of logger, can be anything.
         """
@@ -32,4 +32,4 @@ class Logger:
         logger.setLevel(logging.DEBUG)
         logger.addHandler(handler)
         logger.addHandler(screen_handler)
-        self.logfile = logger
+        self.log = logger

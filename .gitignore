@@ -2,6 +2,9 @@
 __pycache__
 *.pyc
 
+# Pytest Cache
+.pytest_cache
+
 # Credentials File
 credentials.json
 
