@@ -25,4 +25,4 @@ Some really cool GIF
 
 ## License
 
-This project currently does NOT have a license. From [github's guidance](https://choosealicense.com/no-permission/), please [contact The Shtrahman Lab](https://shtrahmanlab.org/contact/) for permission to use any portions of the software in this repository.
+This project is licensed under the MIT License. Please [contact The Shtrahman Lab](https://shtrahmanlab.org/contact/) for any questions.
