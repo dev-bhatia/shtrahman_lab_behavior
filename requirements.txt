@@ -1,0 +1,6 @@
+pyramid==1.10
+pyramid-jinja2
+mysql-connector-python
+pandas
+scikit-learn
+matplotlib==3.3.4

@@ -1,0 +1,14 @@
+# Python Cache
+__pycache__
+*.pyc
+
+# Credentials File
+credentials.json
+
+# MacOS File
+.DS_Store
+
+# Generated Logs, Plots & Data
+logs/*
+plots/*
+data/*

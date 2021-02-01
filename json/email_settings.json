@@ -1,0 +1,5 @@
+{
+    "send-daily" : true,
+    "recipiants" : ["djbhatia@ucsd.edu"],
+    "developer-team" : ["djbhatia@ucsd.edu"]
+}
