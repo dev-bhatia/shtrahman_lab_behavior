@@ -1,5 +1,6 @@
 {
-    "send-daily" : true,
+    "send-emails-daily" : true,
+    "clear-logs-on-monday" : true,
     "recipiants" : ["djbhatia@ucsd.edu"],
     "developer-team" : ["djbhatia@ucsd.edu"]
 }

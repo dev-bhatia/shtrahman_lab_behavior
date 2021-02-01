@@ -1,6 +1,11 @@
-pyramid==1.10
-pyramid-jinja2
+# Web Server
+pyramid==1.10.4
+pyramid-jinja2==2.8
+
+# Database
 mysql-connector-python
+
+# Data Visualization & Analysis
 pandas
 scikit-learn
-matplotlib==3.3.4
+matplotlib

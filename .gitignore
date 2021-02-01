@@ -9,6 +9,8 @@ credentials.json
 .DS_Store
 
 # Generated Logs, Plots & Data
-logs/*
-plots/*
-data/*
+logs/*.log
+plots/*.png
+data/*.txt
+data/*.csv
+data/*.xlsx
